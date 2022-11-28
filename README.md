@@ -1,9 +1,9 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name :	Vishwa Rathinam 
-## Roll no: 212221240063
-## Date of experiment : 
+ Name :	Vishwa Rathinam 
+ Roll no: 212221240063
+ Date of experiment : 
   
   
 ## Aim: 
